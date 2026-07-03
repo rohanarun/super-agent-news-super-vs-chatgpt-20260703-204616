@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[whbl.com](https://whbl.com/2026/07/02/exclusive-zuckerberg-says-ai-agent-development-going-slower-than-expected/)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[en.softonic.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmx0N05qQ1FLUG9IcXVLZmpIdXNPaF9VV2xibDBxazY4TlRLbkFEb0FoS2x2VVBXZHVfZm1iY3pEaVVxdlhYYmNfMGVNM2FCdGdWRFhLSDdDbURyMVU2cjdLNElHMGVUVUtfSmdiN0JGdzhub0p0dGdMQTl3MHdRcXBicG5fUmh0TVR3Z1k5aUNGczVPZ2N3ME1IdTlvam1VNlMwbg?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero max-width\u22481120px (2\u20133 lines); dense grids verified (grid-auto-flow:dense); labels swept; button contrast checked (ink/white).",
+  "generated_at": "2026-07-03T20:46:23.351788+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents compared",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class conversational assistant evolving toward automation. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer\u2011use cache so repeated workflows get faster and cheaper. This page compares where each shines, grounded in current reporting."
+}
